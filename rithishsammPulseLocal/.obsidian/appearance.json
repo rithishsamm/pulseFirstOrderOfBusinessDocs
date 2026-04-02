@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Prism",
+  "interfaceFontFamily": "Helvetica",
+  "textFontFamily": "Calibri",
+  "monospaceFontFamily": "Courier New,Source Code Pro",
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "showRibbon": true
+}
