@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a816948a896d46f",
+        "id": "8ecfdcb7aa0eb5c6",
         "type": "tabs",
         "children": [
           {
-            "id": "7127f9c95cbaf68c",
+            "id": "4ecdcf7f0b2901a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulse.in/1. Observation - Audit.md",
+                "file": "pulse.in/2. Optimization (stabilizing and scaling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Observation - Audit"
-            }
-          },
-          {
-            "id": "5c4a9015e8dc68b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulse.in/2. Optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Optimization"
-            }
-          },
-          {
-            "id": "bd0aad2a875e0b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulse.in/0. Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Index"
+              "title": "2. Optimization (stabilizing and scaling)"
             }
           }
         ]
@@ -216,11 +188,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7127f9c95cbaf68c",
+  "active": "4ecdcf7f0b2901a8",
   "lastOpenFiles": [
+    "pulse.in/1. Observation(Audit).md",
+    "pulse.in/2. Optimization (stabilizing and scaling).md",
+    "Excalidraw/Current CICD Workflow.md",
+    "Excalidraw/image/Current CICD Workflow (1).png",
     "pulse.in/0. Index.md",
-    "pulse.in/1. Observation - Audit.md",
-    "pulse.in/2. Optimization.md",
+    "Excalidraw/image/Current CICD Workflow.png",
+    "Excalidraw/image",
+    "Excalidraw/New folder",
+    "Excalidraw",
     "pulse.in/3. Modernization.md",
     "pulse.in",
     "pulse",
@@ -240,7 +218,6 @@
     "myTutorialHell/Storage",
     "myTutorialHell/Security/kubescape - launch template.md",
     "myTutorialHell/Security/DevSecOps Practice.md",
-    "myTutorialHell/Security",
     "myTutorialHell/rough/REF - OLD.md",
     "myTutorialHell/rough/qwen2 - Apology Letter.md",
     "myTutorialHell/rough/Prompts-.md",
@@ -248,9 +225,7 @@
     "myTutorialHell/rough/Concised Final Draft.md",
     "myTutorialHell/rough/claude - Apology Letter.md",
     "myTutorialHell/rough/chatgpt - Apology Letter.md",
-    "myTutorialHell/rough",
     "myTutorialHell/packaging and delivery/app.exe and .msi.md",
-    "myTutorialHell/packaging and delivery",
     "myTutorialHell/moss.jpeg",
     "myTutorialHell/image.png",
     "myTutorialHell/haK8sCluster.png",
@@ -259,10 +234,6 @@
     "myTutorialHell/diagrams/hexr-workflow.drawio.png",
     "myTutorialHell/SNA/Socket/Socks.md",
     "myTutorialHell/SNA/Full-Stack Web Engineering/9. PHP Introduction.md",
-    "myTutorialHell/SNA/Full-Stack Web Engineering/7. Request Response Part - 1 - SNA.md",
-    "myTutorialHell/SNA/Full-Stack Web Engineering/2. HTML & CSS Rendering Frontend.md",
-    "myTutorialHell/SNA/amedia/Pasted image 20250218155443.png",
-    "myTutorialHell/RealFullStack.png",
-    "myTutorialHell/Orchestration/K8s-HolyGrail/kubernetes_latest_manifest/DockerEngine/T01-Docker-fundamentals/src/images/docker-flow.png"
+    "myTutorialHell/SNA/amedia/Pasted image 20250218155443.png"
   ]
 }
