@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b0fb8db9f10c7d25",
+    "id": "e50b9a1059c2460c",
     "type": "split",
     "children": [
       {
-        "id": "e0bb0547588b34ad",
+        "id": "97bb60f8c2a1acb3",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ba17ee12b39dcc",
+            "id": "cccaedf80a30c3db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5eb42cc512b3b104",
+    "id": "2979ab42f125f92f",
     "type": "split",
     "children": [
       {
-        "id": "335b2058ef2dc710",
+        "id": "c74f4221ca1011b3",
         "type": "tabs",
         "children": [
           {
-            "id": "53d98d6973542663",
+            "id": "fca8a810f8de473d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "0e3510a965bf2d27",
+            "id": "1f91526e82ebe580",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "0b9466d2ada41d92",
+            "id": "d1bc51c51d8d547b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "bf81b947d4a24483",
+    "id": "43ce9a247d26290a",
     "type": "split",
     "children": [
       {
-        "id": "0e73482fd8fd3f5c",
+        "id": "f135f1ed4456a298",
         "type": "tabs",
         "children": [
           {
-            "id": "622801786200f9c6",
+            "id": "16c1c0d97b56909c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pulse.in/1. Observation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Observation"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "12f27a72db7026d6",
+            "id": "7cf87e0c3d9c5409",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pulse.in/1. Observation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Observation"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f302b88f57cfdc03",
+            "id": "1cbde854296e0483",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +131,7 @@
             }
           },
           {
-            "id": "503a6e98557f75ea",
+            "id": "823741186c077c94",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +145,17 @@
             }
           },
           {
-            "id": "878607ae49746d1a",
+            "id": "7c584883cfd085da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "pulse.in/1. Observation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Observation"
+              "title": "Outline"
             }
           }
         ]
@@ -170,66 +167,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "c4ba17ee12b39dcc",
-  "lastOpenFiles": [
-    "Excalidraw/Modern Dual Pipeline CICD + Feedback Loop Workflow.md",
-    "pulse.in/3. Modernization(blueprint).md",
-    "pulse.in/2. Optimization (stabilizing and scaling).md",
-    "pulse.in/2.1. Optimization Guidelines (stabilizing and scaling).md",
-    "pulse.in/1. Observation(Audit).md",
-    "pulse.in/0. Index.md",
-    "Excalidraw/image/Modern Dual Pipeline CICD + Feedback Loop Workflow (1).png",
-    "Excalidraw/Current CICD Workflow.md",
-    "Excalidraw/Not recommended CICD Workflow.md",
-    "Excalidraw/image/Not recommended CICD Workflow.png",
-    "Excalidraw/image/Modern Dual Pipeline CICD + Feedback Loop Workflow.png",
-    "Excalidraw/image/dotfiles/download.png",
-    "Excalidraw/image/dotfiles",
-    "Excalidraw/image/dotfiles/download.jpg",
-    "Excalidraw/image/dotfiles/images.png",
-    "Excalidraw/Pasted image 20260407144018.png",
-    "Clippings/RTC Port Scaling Solution.md",
-    "Clippings",
-    "Untitled.md",
-    "Excalidraw/image/Current CICD Workflow (1).png",
-    "Excalidraw/image/Current CICD Workflow.png",
-    "Excalidraw/image",
-    "Excalidraw/New folder",
-    "Excalidraw",
-    "pulse.in",
-    "pulse",
-    "myTutorialHell/Systems/ssh/archive/SSH Tutorial - Crash Course.md",
-    "myTutorialHell/Systems/ssh/archive/SSH Crash Course with Some DevOps.md",
-    "myTutorialHell/Systems/ssh/archive/ssh - secure shell.md",
-    "myTutorialHell/Systems/ssh/easy ssh-keygen and copy.md",
-    "myTutorialHell/Systems/ssh/archive",
-    "myTutorialHell/Systems/Linux/Introduction to Linux & Terminal Commands - Full Course for Beginners.md",
-    "myTutorialHell/Systems/Linux/DIY Linux Privacy Hardening Manual.md",
-    "myTutorialHell/Systems/vboxwebsrv system setup.md",
-    "myTutorialHell/Systems/ssh",
-    "myTutorialHell/Systems/Linux",
-    "myTutorialHell/Storage/MinIO - Kubernetes native object storage.md",
-    "myTutorialHell/Storage/AWS S3 - Simple Storage Service.md",
-    "myTutorialHell/Security/kubescape - launch template.md",
-    "myTutorialHell/Security/DevSecOps Practice.md",
-    "myTutorialHell/rough/REF - OLD.md",
-    "myTutorialHell/rough/qwen2 - Apology Letter.md",
-    "myTutorialHell/rough/Prompts-.md",
-    "myTutorialHell/rough/Pasted Image 20250905184334_559.png",
-    "myTutorialHell/rough/Concised Final Draft.md"
-  ]
+  "active": "cccaedf80a30c3db",
+  "lastOpenFiles": []
 }
